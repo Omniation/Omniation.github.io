@@ -1,0 +1,191 @@
+h1 {
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+.container {
+    border: 2px solid #a2a2a6; ;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.Black{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #000000;
+}
+
+.Orange{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #EE7936;
+}
+
+.Blue {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #157DB9;
+}
+
+.Pink{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #D80869;
+}
+
+
+.Green{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #08D816;
+}
+
+.Yellow{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #EAF63C;
+}
+
+
+.color-container p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: white;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.Arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Tahoma {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.Impact {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+.vanlig {
+    font-style: normal;
+}
+.uthevet{
+    font-weight: 700;
+}
+.kursiv {
+    font-style: italic;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.text-panel p {
+    font-weight: 400 regular;
+    font-size: 14;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.Knapper-container {
+    display: inline-block;
+}
+
+.btn-eksempel1 {
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    font-weight: 400;
+    font-size: 3rem;
+
+}
+
+.btn-eksempel2 {
+    color: #ffc107;
+    background-color: transparent;
+    background-image: none;
+    border-color: #ffc107;
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.btn-eksempel3 {
+    color: #212529;
+    background-color: #7f1cdb;
+    border-color: #2c07ff;
+    font-weight: 400;
+    font-size: 3rem;
+    border-radius: 0.25rem;
+}
+
+.btn-eksempel4 {
+    color: #212529;
+    background-color: #e71515;
+    border-color: #ff0707;
+    font-weight: 400;
+    font-size: 3rem;
+    border-radius: 9rem;
+}
